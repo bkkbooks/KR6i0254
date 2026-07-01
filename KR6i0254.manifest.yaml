@@ -1,0 +1,154 @@
+canonical_identifier: bkk:krp/KR6i0254/v1
+canonical_location: https://kanripo.org/bkk/KR6i0254/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 思惟略要法
+  identifiers:
+    alt_id:
+    - T15n0617
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0617.xml
+    old_id: T15n0617
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0254_000.yaml, hash: 'sha256:edc342b685d1c201189b9ef3dbed69fd6c0163e29a1d35d5327df66b651a0a75'}
+  - {seq: 1, filename: KR6i0254_001.yaml, hash: 'sha256:af8ccd66d1b0db7317b8b4bc81e5d954dc89045f8d76feb519c755ff487445f3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0254_001.markers.yaml, hash: 'sha256:77c8505b71c182404351f2fca3ead91e62f156d767879ac39fee692c76d2bd33'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4140
+  label: 思惟畧要法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-1
+    span:
+    - body
+    - 398
+    - 398
+  label: 四無量觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-2
+    span:
+    - body
+    - 929
+    - 929
+  label: 不淨觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-3
+    span:
+    - body
+    - 1422
+    - 1422
+  label: 白骨觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-4
+    span:
+    - body
+    - 1629
+    - 1629
+  label: 觀佛三昧法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-5
+    span:
+    - body
+    - 2045
+    - 2045
+  label: 生身觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-6
+    span:
+    - body
+    - 2176
+    - 2176
+  label: 法身觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-7
+    span:
+    - body
+    - 2547
+    - 2547
+  label: 十方諸佛觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-8
+    span:
+    - body
+    - 2803
+    - 2803
+  label: 觀無量壽佛法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-9
+    span:
+    - body
+    - 3135
+    - 3135
+  label: 諸法實相觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0254_T_001-mulu-10
+    span:
+    - body
+    - 3832
+    - 3832
+  label: 法華三昧觀法
+  type: mulu
+  level: 1
+hash: sha256:afaba3f7a696afe9ade4b5e590fc40398490985192fa06e1ad961f7176e46717
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

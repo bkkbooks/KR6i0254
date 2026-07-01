@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0254/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 思惟略要法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0617.xml
+    old_id: T15n0617
+hash: sha256:edc342b685d1c201189b9ef3dbed69fd6c0163e29a1d35d5327df66b651a0a75
