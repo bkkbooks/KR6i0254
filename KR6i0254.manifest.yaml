@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0254_000.yaml, hash: 'sha256:edc342b685d1c201189b9ef3dbed69fd6c0163e29a1d35d5327df66b651a0a75'}
-  - {seq: 1, filename: KR6i0254_001.yaml, hash: 'sha256:af8ccd66d1b0db7317b8b4bc81e5d954dc89045f8d76feb519c755ff487445f3'}
+  - {seq: 1, filename: KR6i0254_001.yaml, hash: 'sha256:3ca7b2fcfd0fab8f0e58bd656403b3db271683caa28d817e1eecf37f96f2bd3a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0254_001.markers.yaml, hash: 'sha256:77c8505b71c182404351f2fca3ead91e62f156d767879ac39fee692c76d2bd33'}
+  - {seq: 0, role: markers, filename: assets/KR6i0254_000.markers.yaml, hash: 'sha256:1225a81f2d15a20c2b3ae398e15a794a002abf8dc09a016919ea2cb3f70c17f7'}
+  - {seq: 1, role: markers, filename: assets/KR6i0254_001.markers.yaml, hash: 'sha256:c5415a4ef730c5bf3b73f6a3dfcc27b215f9b80953e528f17b1caa9529b59ad1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -148,7 +149,4 @@ table_of_contents:
   label: 法華三昧觀法
   type: mulu
   level: 1
-hash: sha256:afaba3f7a696afe9ade4b5e590fc40398490985192fa06e1ad961f7176e46717
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a0a68b02182f7afd0e7df7f8c2cd8b422c1bb572913ba677986882f29360731a
