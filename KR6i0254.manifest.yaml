@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0254/v1
 canonical_location: https://kanripo.org/bkk/KR6i0254/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 思惟略要法
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0254_000.yaml, hash: 'sha256:edc342b685d1c201189b9ef3dbed69fd6c0163e29a1d35d5327df66b651a0a75'}
-  - {seq: 1, filename: KR6i0254_001.yaml, hash: 'sha256:3ca7b2fcfd0fab8f0e58bd656403b3db271683caa28d817e1eecf37f96f2bd3a'}
+  - {seq: 1, filename: KR6i0254_001.yaml, hash: 'sha256:b1a82c6eee9f500f84666caaa373038eeb502362669626b946da9862028aad6a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0254_000.markers.yaml, hash: 'sha256:1225a81f2d15a20c2b3ae398e15a794a002abf8dc09a016919ea2cb3f70c17f7'}
-  - {seq: 1, role: markers, filename: assets/KR6i0254_001.markers.yaml, hash: 'sha256:c5415a4ef730c5bf3b73f6a3dfcc27b215f9b80953e528f17b1caa9529b59ad1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0254_001.markers.yaml, hash: 'sha256:d72a657447c04b6e795e7a950cecc2b987c73de25531f53b6d76e2cc4370e93c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -149,4 +149,7 @@ table_of_contents:
   label: 法華三昧觀法
   type: mulu
   level: 1
-hash: sha256:a0a68b02182f7afd0e7df7f8c2cd8b422c1bb572913ba677986882f29360731a
+hash: sha256:45b3783bf1a987998487dbee426ba5a5bd6b0338f921eee66e984e9cee401453
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
